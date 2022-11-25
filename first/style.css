@@ -1,0 +1,29 @@
+h1{
+	color: green;
+    font-size: 66px;
+}
+h2{
+	color: green;
+	font-size: 40px;
+}
+img{
+	width: 1000px;
+}
+p{
+	font-size: 24px;
+	padding-left: 350px;
+	padding-right: 350px;
+	text-align: justify;
+}
+button{
+	font-size: 30px;
+	height: 75px;
+	width: 310px;
+	background: green;
+	color:white;
+	cursor: pointer;
+}
+body{
+
+	text-align:center;
+}
